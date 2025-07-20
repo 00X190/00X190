@@ -1,12 +1,20 @@
-- 👋 Hi, I’m @00X190
-- 👀 I’m interested in cyber security
-- 🌱 I’m currently learning cyber security
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me dakm80610@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# 🔒 Account Security Assessment Toolkit
 
-<!---
-00X190/00X190 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![Security](https://img.shields.io/badge/Security-Penetration_Testing-red)
+![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
+![License](https://img.shields.io/badge/License-GPLv3-green)
+
+## 📜 Legal Disclaimer
+> ⚠️ This tool is **strictly** for:
+> - Authorized penetration testing
+> - Security education
+> - Defensive research  
+> **Unauthorized use is illegal under:** CFAA, GDPR, and local cybersecurity laws.
+
+## 🛠️ Core Features
+```python
+• SMTP Auth Testing (Gmail/Hotmail/Office365)
+• Web Form Bruteforce Protection Analysis
+• Advanced Proxy Chaining (Rotating IPs)
+• Multi-threaded Execution Engine
+• User-Agent Spoofing System
