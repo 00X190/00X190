@@ -18,3 +18,11 @@
 • Advanced Proxy Chaining (Rotating IPs)
 • Multi-threaded Execution Engine
 • User-Agent Spoofing System
+🚀 Quick Start
+# Clone with security checks
+git clone --depth 1 https://github.com/00X190/00X190.git
+cd 00X190
+
+# Secure installation
+python3 -m venv .venv && source .venv/bin/activate
+pip install --require-hashes -r requirements.txt
