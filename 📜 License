@@ -1,0 +1,18 @@
+
+### Key Features:
+1. **Smooth Navigation** - Jump to sections with links
+2. **Copy-Paste Ready** - All commands work instantly in Kali
+3. **Legal Compliance** - Clear usage boundaries
+4. **Maintained Originality** - Your code stays 100% unchanged
+
+### How to Implement:
+1. Copy this entire template
+2. Create new `README.md` in your repo
+3. Paste and:
+   - Replace `your-repo` with your GitHub link
+   - Add your specific troubleshooting tips
+4. For extra sections, duplicate the format:
+   ```markdown
+   ## 🆕 New Section
+   Content here...
+   [▲ Back to top](#-security-toolkit)
