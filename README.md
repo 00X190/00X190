@@ -10,11 +10,21 @@
 > - Security education
 > - Defensive research  
 > **Unauthorized use is illegal under:** CFAA, GDPR, and local cybersecurity laws.
+>   
+🐧 Kali Linux Setup
+ ```python
+# Update system
+sudo apt update && sudo apt upgrade -y
 
-## 🛠️ Core Features
-```python
-• SMTP Auth Testing (Gmail/Hotmail/Office365)
-• Web Form Bruteforce Protection Analysis
-• Advanced Proxy Chaining (Rotating IPs)
-• Multi-threaded Execution Engine
-• User-Agent Spoofing System
+# Install core packages
+sudo apt install -y python3 python3-pip git
+
+# Clone repository
+git clone https://github.com/00X190/YOUR-REPO.git
+cd YOUR-REPO
+
+# Install Python requirements
+pip3 install mechanize proxylist
+
+# Basic us
+./00000011111111.py [options]
