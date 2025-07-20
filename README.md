@@ -20,8 +20,8 @@ sudo apt update && sudo apt upgrade -y
 sudo apt install -y python3 python3-pip git
 
 # Clone repository
-git clone https://github.com/00X190/YOUR-REPO.git
-cd YOUR-REPO
+git clone https://github.com/00X190/00X190
+cd 00X190
 
 # Install Python requirements
 pip3 install mechanize proxylist
